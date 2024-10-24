@@ -38,20 +38,6 @@ test_transforms = transforms.Compose([
     transforms.ToTensor(),
 ])
 
-# train_dataset = torchvision.datasets.CIFAR10(root='/root/workspace/cifar10',
-#                                            train=True,
-#                                            transform=train_transforms,
-#                                            download=True)
-# train_loader = torch.utils.data.DataLoader(dataset=train_dataset,
-#                                            batch_size=config.batch_size,
-#                                            shuffle=True)
-# test_dataset = torchvision.datasets.CIFAR10(root='/root/workspace/cifar10',
-#                                          train=False,
-#                                          transform=test_transforms,
-#                                          download=True)
-# test_loader = torch.utils.data.DataLoader(dataset=test_dataset,
-#                                          batch_size=config.batch_size,
-#                                          shuffle=False)
 train_dataset = torchvision.datasets.MNIST(root='./data',
                                            train=True,
                                            transform=train_transforms,
