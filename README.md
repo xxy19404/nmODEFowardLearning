@@ -2,7 +2,7 @@
 
 Here we give the codes for nmForwardLA.
 
-If you this is useful for you, you can cite our work
+If you this is helpful for you, you can cite our work
 as the follows:
 
 
