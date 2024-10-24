@@ -4,7 +4,7 @@ Here we give the codes for nmForwardLA.
 
 If you this is useful for you, you can cite our work
 as the follows:
-{
+
 
 	@article {nmForwardLA2024,
 		Title = {A Forward Learning Algorithm for Neural Memory Ordinary Differential Equations},
@@ -17,5 +17,5 @@ as the follows:
 		ISSN = {0129-0657},
 		Pages = {2450048},
 	}
-}
+
 
