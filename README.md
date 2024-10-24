@@ -7,6 +7,7 @@ as the follows:
 
 @article {nmForwardLA2024,
 	Title = {A Forward Learning Algorithm for Neural Memory Ordinary Differential Equations},
+ 
 	Author = {Xu, Xiuyuan and Luo, Haiying and Yi, Zhang and Zhang, Haixian},
 	Number = {9},
 	Volume = {34},
