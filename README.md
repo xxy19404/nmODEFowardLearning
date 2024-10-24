@@ -2,8 +2,7 @@
 
 Here we give the codes for nmForwardLA.
 
-If you this is helpful for you, you can cite our work
-as the follows:
+If you this is helpful for you, please cite our paper:
 
 
 	@article {nmForwardLA2024,
