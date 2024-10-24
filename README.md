@@ -1,6 +1,5 @@
 ### A Foward Learning Algorithm for nmODE.
 
-Here we give the codes for nmForwardLA.
 
 If you this is helpful for you, please cite our paper:
 
